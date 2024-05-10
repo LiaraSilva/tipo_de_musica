@@ -1,0 +1,12 @@
+body {
+    width: 600px;
+    margin: 0 auto;
+    background-color: grey;
+    padding: 0 100px 100px 100px;
+  }
+  label {
+    color: white;
+  }
+  html {
+    background-color: rgb(221, 193, 248);
+  }
