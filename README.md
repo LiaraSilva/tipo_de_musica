@@ -1,6 +1,6 @@
 # Formulário de Musica📄
  
-Este é um simples formulário de login que fizemos ano passando e estamos melhorando ele e foi usado o HTML, CSS e JavaScript utilizando o framework Bootstrap 5.
+Este é um simples formulário de musica que ultilizamos um código de um site e fomos aprimorando usando o laço for que aprendemos na aula no dia 9 e 10 de maio.
 
 ![](l.png)
 
