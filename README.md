@@ -24,8 +24,8 @@ Este é um simples formulário de musica que ultilizamos um código de um site e
  
 ## Estrutura de Arquivos📁
  
-- `login.html`: Contém a estrutura do formulário de musica.
-- `login.css`: Arquivo de estilo para personalizar a aparência do formulário.
+- `music.html`: Contém a estrutura do formulário de musica.
+- `main.css`: Arquivo de estilo para personalizar a aparência do formulário.
   
 ## Autores 📍
 [Liara Silva](https://github.com/LiaraSilva?tab=repositories)
