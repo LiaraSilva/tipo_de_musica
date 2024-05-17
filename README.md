@@ -28,7 +28,7 @@ Este é um simples formulário de musica que ultilizamos um código de um site e
 - `main.css`: Arquivo de estilo para personalizar a aparência do formulário.
 
 ## Fonte ultilizada
-(https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Loops_and_iteration)
+[Laço e interações](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Loops_and_iteration)
   
 ## Autores 📍
 [Liara Silva](https://github.com/LiaraSilva?tab=repositories)
